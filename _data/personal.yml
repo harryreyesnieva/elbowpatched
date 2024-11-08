@@ -1,0 +1,50 @@
+name: Harry Reyes Nieva
+
+label: PhD Candidate
+
+picture: /img/profile-picture.jpg
+
+email: harry.reyes@columbia.edu
+
+phone: 
+
+department: Biomedical Informatics
+
+institution: Columbia University
+
+mailing_address: >
+  622 West 168th Street, PH20
+  New York, NY 10032
+
+profiles:
+  - 
+    network: Google Scholar
+    username:
+    url: http://scholar.google.com/citations?user=L58_1hAAAAAJ&hl=en
+  -
+    network: LinkedIn
+    username:
+    url: https://www.linkedin.com/pub/ian-li/1/681/8b0
+  -
+    network: Twitter
+    username: harryreyesnieva
+    url: https://x.com/harryreyesnieva/
+
+  -
+    network: Github
+    username: harryreyesnieva
+    url: https://github.com/harryreyesnieva
+
+intro:
+  title: Welcome!
+  body: >
+    I'm Harry (pronouns: he, him). 
+    I'm in the final year of my PhD training in the [Department of Biomedical Informatics](https://www.dbmi.columbia.edu/){:target="_blank"} 
+    at [Columbia University](https://www.columbia.edu/){:target="_blank"} where I am advised by 
+    [Noémie Elhadad](https://www.dbmi.columbia.edu/profil/noemie-elhadad/){:target="_blank"}. 
+    For most of my PhD, I was also a Visiting Postgraduate Research Fellow at 
+    [Harvard Medical School](https://hms.harvard.edu/){:target="_blank"}. Recently, I served a 2-year term on the 
+    [Journal of the American Medical Informatics Association](https://academic.oup.com/jamia){:target="_blank"} Student Editorial Board 
+    and was a co-organizer of the 2023 [Machine Learning for Health (ML4H) Symposium](https://ml4health.github.io/2023/){:target="_blank"}. 
+    I am also a [DAAD AInet Fellow](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/){:target="_blank"} through the German
+    Academic Exchange Service, Deutscher Akademischer Austauschdienst (DAAD).

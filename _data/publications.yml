@@ -1,0 +1,40 @@
+-
+  type: journal
+  title: "Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review and Gap Analysis of 200,000+ Articles."
+  authors: Harry Reyes Nieva, Suzanne Bakken, Noémie Elhadad
+  journal: Science Advances
+  volume: 10 
+  issue: 4
+  year: 2024
+  month: January
+  pdf: https://www.science.org/doi/epdf/10.1126/sciadv.adf9033
+  url: https://pubmed.ncbi.nlm.nih.gov/38266089/
+-
+  type: dissertation
+  title: "Leveraging Computational Methods to Advance Health Equity Science Through Evidence Synthesis, Monitoring, and Precision Public Health"
+  authors: Harry Reyes Nieva
+  year: 2025
+  publisher: Columbia University
+  pdf: 
+  url: 
+-
+  type: conference
+  title: "Exploring Gender Disparities in Time to Diagnosis"
+  authors: Sun TY, Bear Don’t Walk OJ IV, Chen JL, Reyes Nieva H, Elhadad N.
+  conference: Machine Learning for Health (ML4H) Workshop at the Conference on Neural Information Processing Systems (NeurIPS)
+  year: 2020
+  pages: 
+  pdf: arXiv:2011.06100
+  url: https://arxiv.org/pdf/2011.06100
+
+# -
+#   type: magazine
+#   title: 
+#   authors: 
+#   magazine: 
+#   volume: 
+#   issue: 
+#   year: 
+#   pages: 
+#   url: 
+#   pdf: 
