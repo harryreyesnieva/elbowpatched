@@ -60,11 +60,11 @@ It is threatened by habitat loss.
             {{ site.data.personal.label }}
           </h2>
         </div>
-<!--         <div class="col-xs-3 col-lg-3">
+        <div class="col-xs-3 col-lg-3">
           <img src="{{ site.baseurl }}{{ site.data.personal.picture }}" 
                class="img-circle"
                style="margin-top:-6px;width:56px;border:2px solid rgba(255,255,255,0.75)">
-        </div> -->
+        </div>
       </div>
     </div>
   </header>
@@ -102,7 +102,7 @@ It is threatened by habitat loss.
         }
         </style>
 
-        <img style="float:right" src="/img/profile_picture.jpg" height="225" hspace="20" alt="Avatar" class="avatar"/>        
+        <img style="float:right" src="{{ site.baseurl }}{{ site.data.personal.picture }}" height="225" hspace="20" alt="Avatar" class="avatar"/>        
         <h3>Contact</h3>
         <p>
           {{ site.data.personal.email | replace:'@',' <small>[at]</small> ' | replace:'.',' <small>[dot]</small> ' }}
