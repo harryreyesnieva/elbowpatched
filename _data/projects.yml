@@ -1,14 +1,15 @@
 -
-  name: 'Leveraging Computational Methods to Advance Health Equity Science Through Evidence Synthesis, Monitoring, and Precision Public Health'
+  name: 'Leveraging Computational Methods to Advance Health Equity Science Through Evidence Synthesis, Monitoring, 
+  and Precision Public Health'
   description: >
     The studies presented in this thesis seek to advance health equity science by developing, applying, and evaluating 
     informatics-based approaches to support evidence synthesis, monitoring, and precision public health. In particular, 
     systematic, scalable, and sustainable (i.e., reproducible) approaches are emphasized, drawing from subfields of 
     artificial intelligence such as machine learning, natural language processing, and symbolic reasoning. This dissertation 
-    employs robust methods for big data collection, integration, and analysis while drawing from a rich set of existing and 
-    emerging data sources including a large corpus of biomedical literature, electronic health records from the largest public 
-    health information exchange in the United States, open datasets provided by public agencies, proprietary national insurance 
-    claims datasets, and public health reporting data.  
+    employs robust methods for big data collection, integration, and analysis while drawing from a rich set of existing 
+    and emerging data sources including a large corpus of biomedical literature, electronic health records from the largest 
+    public health information exchange in the United States, open datasets provided by public agencies, proprietary national 
+    insurance claims datasets, and public health reporting data.  
   image: 
   url: 
 -
