@@ -36,7 +36,7 @@ profiles:
     url: https://github.com/harryreyesnieva
 
 intro:
-  body: >
+  body: |
     Welcome! I'm Harry (pronouns: he, him). 
     I'm in the final year of my PhD training in the [Department of Biomedical Informatics](https://www.dbmi.columbia.edu/){:target="_blank"} 
     at [Columbia University](https://www.columbia.edu/){:target="_blank"} where I am advised by 
