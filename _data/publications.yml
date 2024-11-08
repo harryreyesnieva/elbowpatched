@@ -1,12 +1,16 @@
--
-  type: dissertation
-  title: "Leveraging Computational Methods to Advance Health Equity Science Through Evidence Synthesis, Monitoring, 
-  and Precision Public Health"
-  authors: Harry Reyes Nieva
-  year: 2025
-  publisher: Columbia University
-  pdf: 
-  url: 
+# -
+#   type: dissertation
+#   title: "Leveraging Computational Methods to Advance Health Equity Science Through Evidence Synthesis, Monitoring, 
+#   and Precision Public Health"
+#   authors: Harry Reyes Nieva
+#   year: 2025
+#   publisher: Columbia University
+#   pdf: 
+#   url: 
+
+bold:
+  - Harry Reyes Nieva
+  - Reyes Nieva, H
 -
   type: journal
   title: "Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review and Gap 
