@@ -1,3 +1,4 @@
+
 bold:
 - Reyes Nieva H
 
@@ -40,9 +41,6 @@ bold:
   issue: 12
   pmid: 38156044
 -
-
-
--
   type: conference
   title: "Exploring Gender Disparities in Time to Diagnosis"
   authors: Sun TY, Bear Don’t Walk OJ IV, Chen JL, Reyes Nieva H, Elhadad N.
@@ -51,6 +49,8 @@ bold:
   pages: 
   pdf: arXiv:2011.06100
   url: https://arxiv.org/pdf/2011.06100
+
+
 
 # -
 #   type: magazine
