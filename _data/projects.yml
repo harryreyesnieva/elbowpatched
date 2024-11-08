@@ -8,7 +8,7 @@
     artificial intelligence such as machine learning, natural language processing, and symbolic reasoning. This dissertation 
     employs robust methods for big data collection, integration, and analysis while drawing from a rich set of existing 
     and emerging data sources including a large corpus of biomedical literature, electronic health records from the largest 
-    public health information exchange in the United States, open datasets provided by public agencies, proprietary national 
+    public health information exchange in the United States, open government datasets, proprietary national 
     insurance claims datasets, and public health reporting data.  
   image: 
   url: 
@@ -61,7 +61,7 @@
     Programmed module to review continuity of care, drug therapy initiation, medication adherence, loss to follow-up, 
     laboratory monitoring, disease screening based on clinical symptoms assessment or diagnostic evaluation, treatment 
     failure, toxicity management, nutritional assessment, and treatment response.
-  image: 
+  image: /img/US-PEPFAR-Logo.svg
   url: 
 -
   name: 'Harvard PEPFAR Nigeria Adult quality improvement tool / Co-developer'
@@ -70,7 +70,7 @@
     15 adult quality of care indicators at 33 Harvard PEPFAR sites in Nigeria. Module reviews continuity of care, drug 
     therapy initiation, loss to follow-up, laboratory monitoring, disease screening based on clinical symptoms assessment, 
     treatment failure, and treatment response.
-  image: 
+  image: /img/US-PEPFAR-Logo.svg
   url: 
 -
   name: 'Harvard PEPFAR Nigeria Data quality assessment tool, version 2.0 / Co-developer'
@@ -78,7 +78,7 @@
     Instituted major modifications to and evaluated a pre-existing EHR utility to incorporate expanded data quality 
     indicators at 33 Harvard PEPFAR sites in Nigeria. With this utility, central and site-level data managers are able 
     to better monitor and improve data completeness, validity, accuracy, and currency.
-  image: 
+  image: /img/US-PEPFAR-Logo.svg
   url: 
 
 
