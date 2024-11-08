@@ -1,6 +1,6 @@
 name: Harry Reyes Nieva
 
-label: 
+label: PhD Candidate in Biomedical Informatics
 
 picture: /img/profile-picture.jpg
 
@@ -36,9 +36,8 @@ profiles:
     url: https://github.com/harryreyesnieva
 
 intro:
-  title: Welcome!
   body: >
-    I'm Harry (pronouns: he, him). 
+    Welcome! I'm Harry (pronouns: he, him). 
     I'm in the final year of my PhD training in the [Department of Biomedical Informatics](https://www.dbmi.columbia.edu/){:target="_blank"} 
     at [Columbia University](https://www.columbia.edu/){:target="_blank"} where I am advised by 
     [Noémie Elhadad](https://www.dbmi.columbia.edu/profil/noemie-elhadad/){:target="_blank"}. 
