@@ -8,9 +8,6 @@
 #   pdf: 
 #   url: 
 
-bold:
-  - Harry Reyes Nieva
-  - Reyes Nieva, H
 -
   type: journal
   title: "Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review and Gap 
@@ -21,6 +18,7 @@ bold:
   issue: 4
   year: 2024
   month: January
+  pages: eadf9033
   pdf: https://www.science.org/doi/epdf/10.1126/sciadv.adf9033
   url: https://pubmed.ncbi.nlm.nih.gov/38266089
   doi: 10.1126/sciadv.adf9033

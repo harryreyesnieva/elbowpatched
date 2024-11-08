@@ -162,10 +162,11 @@ It is threatened by habitat loss.
               {% when 'dissertation' %}
                 {{ publication.publisher }}
               {% when 'journal' %}
-                {{ publication.journal }},
-                {{ publication.volume }},
-                {{ publication.issue }},
-                {{ publication.pages }}
+                {{ publication.journal }}.
+                {{ publication.volume }}
+                ({{ publication.issue }}):
+                {{ publication.pages }}.
+
               {% when 'magazine' %}
                 {{ publication.magazine }},
                 {{ publication.volume }},
@@ -275,11 +276,11 @@ It is threatened by habitat loss.
         <div class="col-xs-12"> 
           <h4 class="footer-heading"> &copy; 2019-2024 All Rights Reserved.</h4>         
           
-          <img src="{{ site.baseurl }}/img/elbowpatched-icon.svg" alt="Elbowpatched"
+<!--           <img src="{{ site.baseurl }}/img/elbowpatched-icon.svg" alt="Elbowpatched"
                style="float:left;margin-right:5px;width:20px;height:20px;">
           Powered by 
           <a href="http://www.elbowpatched.com">
-            Elbowpatched
+            Elbowpatched -->
           </a>
         </div>
       </div>
