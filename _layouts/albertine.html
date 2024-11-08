@@ -141,6 +141,7 @@ It is threatened by habitat loss.
   <div class="container">
     <div class="row">
       <section class="col-md-9">
+        <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>  
         <h3>Selected Publications</h3>
 
         {% for publication in site.data.publications %}
@@ -161,11 +162,14 @@ It is threatened by habitat loss.
                 {{ publication.conference }}
               {% when 'dissertation' %}
                 {{ publication.publisher }}
+
               {% when 'journal' %}
+              <span data-badge-popover="right" data-badge-type="donut" data-doi="{{ publication.doi }}" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span>
                 {{ publication.journal }}.
                 {{ publication.volume }}
                 ({{ publication.issue }}):
                 {{ publication.pages }}.
+                <span class="__dimensions_badge_embed__" data-doi="{{ publication.doi }}" data-hide-zero-citations="true"  data-style="large_rectangle"></span> 
 
               {% when 'magazine' %}
                 {{ publication.magazine }},
