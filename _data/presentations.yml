@@ -1,5 +1,5 @@
 -
-  description: REGIONAL
+  titl: REGIONAL
 -
   title: "High physician and clinic-level variation in documentation of sexual orientation and gender identity in the electronic health record"
   authors: Reyes Nieva H, Blackley S, Streed C, Fiskio J, Zhou L
@@ -9,7 +9,7 @@
     Ruth and William Silen, MD Oral Presentation Award Recipient
   slides_url:
 -
-  description: NATIONAL
+  title: NATIONAL
 -
   title: "Elucidating Health Inequities and Research Gaps in HIV and Other Sexually Transmitted Infections Using Data Mining and a Large Language Model: A Computational Scoping Review"
   authors: Reyes Nieva H, Zucker J, Elhadad N
@@ -103,7 +103,7 @@
   description: >
     Received the Outstanding Quality and Patient Safety Oral Presentation Award
 -
-  description: INTERNATIONAL
+  title: INTERNATIONAL
 -
   title: The Impact of Evolving Diagnostic Guidelines on Clinical Characterization of Endometriosis 
   authors: Reyes Nieva H, Kashyap A, Voss EA, Ostropolets A, Anand A, Ketenci M, DeFalco FJ, Natarajan K, Choi YS, Li Y, Allen MN, Guang S, Elhadad N 
