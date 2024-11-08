@@ -96,13 +96,12 @@ It is threatened by habitat loss.
         .avatar {
           vertical-align: middle;
           horizontal-align: middle;
-          width: 225px;
-          height: 225px;
-          border-radius: 50%;
+          width: 200px;
+          height: 200px;
         }
         </style>
-
-        <img style="float:right" src="{{ site.data.personal.picture }}" height="225" hspace="20" alt="Avatar" class="avatar"/>        
+        <img style="float:right" src="{{ site.baseurl }}{{ site.data.personal.picture }}" 
+        height="200" alt="Avatar" class="avatar"/>        
         <h3>Contact</h3>
         <p>
           {{ site.data.personal.email | replace:'@',' <small>[at]</small> ' | replace:'.',' <small>[dot]</small> ' }}
