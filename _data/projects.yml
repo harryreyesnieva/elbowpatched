@@ -22,7 +22,7 @@
     aimed at characterizing major topics found among nearly a quarter million scientific articles in the HDMH literature, 
     examining change in topic mention over time, identifying notable gaps in coverage, and deriving actionable insights for 
     further inquiry.
-  image: 
+  image: /img/hdmh-graphical-abstract.png
   url: https://hdmhmonitor.dbmi.columbia.edu/
 -
   name: 'C-REACT: Contextualized Race and Ethnicity Annotations for Clinical Text / Co-developer'
@@ -32,7 +32,7 @@
     The first set contains granular RE-information such as patient country of origin and spoken language. The second set of 
     annotations contains RE labels manually assigned by clinicians. This corpus is intended to improve understanding about 
     granular information related to RE contained within the clinical note and how this information might be used to infer RE.
-  image:
+  image: /img/physionet.png
   url: https://physionet.org/content/race-ethnicity-clinical-text/
 
 -
@@ -43,7 +43,7 @@
     populations and insurance coverage types, allowing for identification of persistent and generalizable trends in diagnosis 
     differences. The HERA dashboard and visualizations can be used to download study data, further investigate health 
     differences, and generate novel hypotheses.
-  image: 
+  image: /img/ohdsi-logo.png
   url: https://data.ohdsi.org/HERACharacterization/
 -
   name: 'CovidWatcher / Co-developer'
@@ -51,7 +51,7 @@
     Covidwatcher is an app and online portal that surveyed users about their exposure to COVID-19, symptoms, access to 
     medical care, and impact on daily life. The data collected was used to track the spread of coronavirus, giving 
     citizens real-time information about hot spots, and enabling health care officials to deploy resources where needed most.
-  image: 
+  image: /img/covidwatcher.png
   url: https://www.dbmi.columbia.edu/covidwatcher/
 -
   name: 'Harvard PEPFAR Nigeria Pediatric quality improvement tool / Co-developer'
@@ -61,7 +61,7 @@
     Programmed module to review continuity of care, drug therapy initiation, medication adherence, loss to follow-up, 
     laboratory monitoring, disease screening based on clinical symptoms assessment or diagnostic evaluation, treatment 
     failure, toxicity management, nutritional assessment, and treatment response.
-  image: /img/US-PEPFAR-Logo.svg
+  image: /img/US-PEPFAR-Logo.png
   url: https://www.hsph.harvard.edu/news/hsph-in-the-news/pepfar-20-years/
 -
   name: 'Harvard PEPFAR Nigeria Adult quality improvement tool / Co-developer'
@@ -70,7 +70,7 @@
     15 adult quality of care indicators at 33 Harvard PEPFAR sites in Nigeria. Module reviews continuity of care, drug 
     therapy initiation, loss to follow-up, laboratory monitoring, disease screening based on clinical symptoms assessment, 
     treatment failure, and treatment response.
-  image: /img/US-PEPFAR-Logo.svg
+  image: /img/US-PEPFAR-Logo.png
   url: https://www.hsph.harvard.edu/news/hsph-in-the-news/pepfar-20-years/
 -
   name: 'Harvard PEPFAR Nigeria Data quality assessment tool, version 2.0 / Co-developer'
@@ -78,7 +78,7 @@
     Instituted major modifications to and evaluated a pre-existing EHR utility to incorporate expanded data quality 
     indicators at 33 Harvard PEPFAR sites in Nigeria. With this utility, central and site-level data managers are able 
     to better monitor and improve data completeness, validity, accuracy, and currency.
-  image: /img/US-PEPFAR-Logo.svg
+  image: /img/US-PEPFAR-Logo.png
   url: https://www.hsph.harvard.edu/news/hsph-in-the-news/pepfar-20-years/
 
 
