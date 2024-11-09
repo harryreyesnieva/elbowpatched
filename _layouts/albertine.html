@@ -170,6 +170,12 @@ It is threatened by habitat loss.
                 {{ publication.volume }}({{ publication.issue }}):{{ publication.pages }}. <b>{{ publication.note}}</b>
                 <span class="__dimensions_badge_embed__" data-doi="{{ publication.doi }}" data-hide-zero-citations="true"  data-style="large_rectangle"></span> 
 
+              {% when 'preprint' %}
+              <span data-badge-popover="right" data-badge-type="donut" data-doi="{{ publication.doi }}" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span>
+                {{ publication.server }}.
+                {{ publication.year }}({{ publication.mointh }}):{{ publication.doi }}. <b>{{ publication.note}}</b>
+                <span class="__dimensions_badge_embed__" data-doi="{{ publication.doi }}" data-hide-zero-citations="true"  data-style="large_rectangle"></span> 
+
               {% when 'magazine' %}
                 {{ publication.magazine }},
                 {{ publication.volume }},
@@ -203,7 +209,7 @@ It is threatened by habitat loss.
           <p>
             <img src="{{ site.baseurl }}{{ project.image }}" 
                  class="img-responsive img-thumbnail"
-                 style="width:100%">
+                 style="width:144px;">
           </p>
         </div>
         <div class="col-xs-12
@@ -254,10 +260,9 @@ It is threatened by habitat loss.
               {% endif %}
             </b>
             <br>
-            <small>
-              {{ presentation.date }}
-            </small>
-            {{ presentation.location }}
+            {{ presentation.location }} <small>{{ presentation.date }}</small>
+            <br>
+            {{ presentation.description }}
           </p>
         </div>
       </div>
