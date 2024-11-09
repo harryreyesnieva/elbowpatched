@@ -34,6 +34,10 @@ profiles:
     network: Github
     username: harryreyesnieva
     url: https://github.com/harryreyesnieva
+  -
+    network: CV
+    url: https://www.harryreyesnieva.com/cv/
+
 
 intro:
   body: |

@@ -1,15 +1,14 @@
 -
-  name: 'Leveraging Computational Methods to Advance Health Equity Science Through Evidence Synthesis, Monitoring, 
+  name: 'Leveraging Computational Methods to Advance Health Equity Science Through Evidence Synthesis, Strategic Monitoring, 
   and Precision Public Health'
   description: >
     The studies presented in this thesis seek to advance health equity science by developing, applying, and evaluating 
-    informatics-based approaches to support evidence synthesis, monitoring, and precision public health. In particular, 
-    systematic, scalable, and sustainable (i.e., reproducible) approaches are emphasized, drawing from subfields of 
-    artificial intelligence such as machine learning, natural language processing, and symbolic reasoning. This dissertation 
-    employs robust methods for big data collection, integration, and analysis while drawing from a rich set of existing 
-    and emerging data sources including a large corpus of biomedical literature, electronic health records from the largest 
-    public health information exchange in the United States, open government datasets, proprietary national 
-    insurance claims datasets, and public health reporting data.  
+    informatics-based approaches. In particular, systematic, scalable, and sustainable (i.e., reproducible) approaches are 
+    emphasized, drawing from subfields of artificial intelligence such as machine learning, natural language processing, 
+    and symbolic reasoning. This dissertation employs robust methods for big data collection, integration, and analysis 
+    while drawing from a rich set of existing and emerging data sources including a large corpus of biomedical literature, 
+    electronic health records from the largest public health information exchange in the United States, open government 
+    datasets, proprietary national insurance claims datasets, and public health reporting data.  
   image: /img/thesis.png
   url: 
 -
@@ -32,7 +31,7 @@
     The first set contains granular RE-information such as patient country of origin and spoken language. The second set of 
     annotations contains RE labels manually assigned by clinicians. This corpus is intended to improve understanding about 
     granular information related to RE contained within the clinical note and how this information might be used to infer RE.
-  image: /img/physionet.png
+  image: /img/physionet-logo.png
   url: https://physionet.org/content/race-ethnicity-clinical-text/
 
 -
